@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">project1</string>
+
+    <string name="btn1">Add#</string>
+    <string name="btn2">AddToList</string>
+    <string name="btn3">Clear</string>
+</resources>

@@ -1,0 +1,10 @@
+C:\Users\polin\source\repos\bilet14_zadanie1\bilet14_zadanie1\bin\Debug\bilet14_zadanie1.exe.config
+C:\Users\polin\source\repos\bilet14_zadanie1\bilet14_zadanie1\bin\Debug\bilet14_zadanie1.exe
+C:\Users\polin\source\repos\bilet14_zadanie1\bilet14_zadanie1\bin\Debug\bilet14_zadanie1.pdb
+C:\Users\polin\source\repos\bilet14_zadanie1\bilet14_zadanie1\obj\Debug\bilet14_zadanie1.csprojAssemblyReference.cache
+C:\Users\polin\source\repos\bilet14_zadanie1\bilet14_zadanie1\obj\Debug\bilet14_zadanie1.Form1.resources
+C:\Users\polin\source\repos\bilet14_zadanie1\bilet14_zadanie1\obj\Debug\bilet14_zadanie1.Properties.Resources.resources
+C:\Users\polin\source\repos\bilet14_zadanie1\bilet14_zadanie1\obj\Debug\bilet14_zadanie1.csproj.GenerateResource.cache
+C:\Users\polin\source\repos\bilet14_zadanie1\bilet14_zadanie1\obj\Debug\bilet14_zadanie1.csproj.CoreCompileInputs.cache
+C:\Users\polin\source\repos\bilet14_zadanie1\bilet14_zadanie1\obj\Debug\bilet14_zadanie1.exe
+C:\Users\polin\source\repos\bilet14_zadanie1\bilet14_zadanie1\obj\Debug\bilet14_zadanie1.pdb

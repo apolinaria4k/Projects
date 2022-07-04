@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mgn">5dp</dimen>
+    <dimen name="txtSz">30sp</dimen>
+    <dimen name="btn">30sp</dimen>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ListView
+        android:id="@+id/vw"
+        style="@style/lv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"/>
+
+    <EditText
+        android:id="@+id/et1"
+        style="@style/et"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <EditText
+        style="@style/et"
+        android:id="@+id/et2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+        <Button
+            android:onClick="Add"
+            android:id="@+id/add"
+            style="@style/btn"
+            android:text="@string/btn1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <Button
+            android:onClick="AddToList"
+            android:id="@+id/addToList"
+            style="@style/btn"
+            android:text="@string/btn2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <Button
+            android:onClick="Clear"
+            android:id="@+id/clear"
+            style="@style/btn"
+            android:text="@string/btn3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+</LinearLayout>

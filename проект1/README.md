@@ -13,5 +13,5 @@
 
 Результаты работы:
 
-![image](https://user-images.githubusercontent.com/91782001/177382581-21cc2046-bce7-4c7f-91a9-f079aaa83cde.png)
+![image](https://user-images.githubusercontent.com/91782001/177382851-ef786c98-5878-4128-811f-06afa7fc6d8a.png)
 

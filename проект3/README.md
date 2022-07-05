@@ -15,3 +15,4 @@
         
 Результат выполнения программы:
 
+![image](https://user-images.githubusercontent.com/91782001/177387453-0a24285e-d561-424c-9a14-bffeaca4a307.png)
